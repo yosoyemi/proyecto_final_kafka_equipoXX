@@ -1,0 +1,18 @@
+Carpeta de evidencias - Obelie Pasteleria
+=========================================
+
+Esta carpeta esta vacia a proposito. No se incluyen capturas fabricadas.
+
+Toma aqui capturas REALES de pantalla, por ejemplo:
+
+01_docker_kafka.png          docker compose ps / Docker Desktop
+02_topics.png                kafka-topics.sh --describe (4 topics, 3 particiones)
+03_producer_1.png            terminal de producer_1.py (ventas y pagos)
+04_producer_2.png            terminal de producer_2.py (clientes)
+05_producer_3.png            terminal de producer_3.py (inventario)
+06_consumer.png              terminal de consumer.py escribiendo CSV
+07_csv_datos.png             carpeta datos/ con los 4 CSV
+08_dashboard_metricas.png    Streamlit: OBELIE Streaming Analytics + 4 metricas
+09_dashboard_graficas.png    las 4 graficas y ultimas 10 ventas
+10_producer_detenido.png     un producer detenido y los otros seguidos
+11_verificar_sistema.png     salida "PROYECTO LISTO PARA ENTREGAR"

@@ -1,0 +1,51 @@
+[producer_1] Iniciando. Topics: ventas, pagos
+[producer_1] Conectado a Kafka en 127.0.0.1:9092
+[producer_1] 5 ventas/pagos | ultima venta=V-4E03211F8D Macaron mixto $112.0 | pago=tarjeta
+[producer_1] 10 ventas/pagos | ultima venta=V-75D764AA30 Croissant de almendra $96.0 | pago=transferencia
+[producer_1] 15 ventas/pagos | ultima venta=V-689F3DF57F Tarta de frutas $2340.0 | pago=vale
+[producer_1] 20 ventas/pagos | ultima venta=V-E7A8E3EE41 Rol de canela $252.0 | pago=transferencia
+[producer_1] 25 ventas/pagos | ultima venta=V-FD1210CDC7 Pastel de chocolate $760.0 | pago=tarjeta
+[producer_1] 30 ventas/pagos | ultima venta=V-5FDE5C4951 Tarta de frutas $2340.0 | pago=efectivo
+[producer_1] 35 ventas/pagos | ultima venta=V-52E7AA0886 Macaron mixto $168.0 | pago=vale
+[producer_1] 40 ventas/pagos | ultima venta=V-9C82263A90 Baguette tradicional $32.0 | pago=tarjeta
+[producer_1] 45 ventas/pagos | ultima venta=V-8D6CA6F7D4 Cheesecake de frutos rojos $840.0 | pago=efectivo
+[producer_1] 50 ventas/pagos | ultima venta=V-689671E4AC Pastel de chocolate $2280.0 | pago=vale
+[producer_1] 55 ventas/pagos | ultima venta=V-B434935D44 Tarta de frutas $1950.0 | pago=vale
+[producer_1] 60 ventas/pagos | ultima venta=V-C8742E5795 Galleta de mantequilla $90.0 | pago=tarjeta
+[producer_1] 65 ventas/pagos | ultima venta=V-1A4C27DCBA Eclair de cafe $270.0 | pago=transferencia
+[producer_1] 70 ventas/pagos | ultima venta=V-8646BD58CF Eclair de cafe $45.0 | pago=tarjeta
+[producer_1] 75 ventas/pagos | ultima venta=V-41EE0DFB0B Galleta de mantequilla $18.0 | pago=vale
+[producer_1] 80 ventas/pagos | ultima venta=V-6C01264980 Galleta de mantequilla $108.0 | pago=vale
+[producer_1] 85 ventas/pagos | ultima venta=V-CDB0A25020 Cheesecake de frutos rojos $420.0 | pago=vale
+[producer_1] 90 ventas/pagos | ultima venta=V-C69A3E0127 Brownie nogada $275.0 | pago=tarjeta
+[producer_1] 95 ventas/pagos | ultima venta=V-D59FFD98ED Baguette tradicional $64.0 | pago=tarjeta
+[producer_1] 100 ventas/pagos | ultima venta=V-22D5060759 Cheesecake de frutos rojos $2520.0 | pago=transferencia
+[producer_1] 105 ventas/pagos | ultima venta=V-C58D130B44 Tarta de frutas $1170.0 | pago=transferencia
+[producer_1] 110 ventas/pagos | ultima venta=V-7B0E906725 Galleta de mantequilla $18.0 | pago=tarjeta
+[producer_1] 115 ventas/pagos | ultima venta=V-CB2FDA624F Galleta de mantequilla $54.0 | pago=vale
+[producer_1] 120 ventas/pagos | ultima venta=V-EE1F9C8230 Cheesecake de frutos rojos $1680.0 | pago=efectivo
+[producer_1] 125 ventas/pagos | ultima venta=V-2662501491 Macaron mixto $112.0 | pago=transferencia
+[producer_1] 130 ventas/pagos | ultima venta=V-C264A43668 Tarta de frutas $2340.0 | pago=efectivo
+[producer_1] 135 ventas/pagos | ultima venta=V-6323972348 Croissant de almendra $240.0 | pago=tarjeta
+[producer_1] 140 ventas/pagos | ultima venta=V-27590FA5F3 Baguette tradicional $96.0 | pago=vale
+[producer_1] 145 ventas/pagos | ultima venta=V-D0016EF5E7 Rol de canela $252.0 | pago=tarjeta
+[producer_1] 150 ventas/pagos | ultima venta=V-8CD3F1BC67 Macaron mixto $28.0 | pago=tarjeta
+[producer_1] 155 ventas/pagos | ultima venta=V-B1B8048153 Eclair de cafe $135.0 | pago=efectivo
+[producer_1] 160 ventas/pagos | ultima venta=V-1DDF2B9AA5 Galleta de mantequilla $36.0 | pago=vale
+[producer_1] 165 ventas/pagos | ultima venta=V-76200C239F Cheesecake de frutos rojos $420.0 | pago=vale
+[producer_1] 170 ventas/pagos | ultima venta=V-CCE1096DB2 Brownie nogada $220.0 | pago=transferencia
+[producer_1] 175 ventas/pagos | ultima venta=V-129AE2064C Eclair de cafe $45.0 | pago=vale
+[producer_1] 180 ventas/pagos | ultima venta=V-3CC69FE62D Pastel de chocolate $380.0 | pago=tarjeta
+[producer_1] 185 ventas/pagos | ultima venta=V-0C4DE5C15F Galleta de mantequilla $36.0 | pago=efectivo
+[producer_1] 190 ventas/pagos | ultima venta=V-58C920B5A5 Cheesecake de frutos rojos $1260.0 | pago=transferencia
+[producer_1] 195 ventas/pagos | ultima venta=V-9C8FBF7F13 Baguette tradicional $96.0 | pago=transferencia
+[producer_1] 200 ventas/pagos | ultima venta=V-CEDE94FDFC Brownie nogada $110.0 | pago=tarjeta
+[producer_1] 205 ventas/pagos | ultima venta=V-3A33D0109A Croissant de almendra $192.0 | pago=efectivo
+[producer_1] 210 ventas/pagos | ultima venta=V-96BB8D3A10 Baguette tradicional $192.0 | pago=vale
+[producer_1] 215 ventas/pagos | ultima venta=V-0C2709FF40 Rol de canela $42.0 | pago=transferencia
+[producer_1] 220 ventas/pagos | ultima venta=V-EA84782ECB Eclair de cafe $270.0 | pago=vale
+[producer_1] 225 ventas/pagos | ultima venta=V-D4653FE95D Brownie nogada $275.0 | pago=efectivo
+[producer_1] 230 ventas/pagos | ultima venta=V-047F2274C8 Baguette tradicional $64.0 | pago=tarjeta
+[producer_1] 235 ventas/pagos | ultima venta=V-0B2616594B Cheesecake de frutos rojos $2100.0 | pago=vale
+[producer_1] 240 ventas/pagos | ultima venta=V-3882F43726 Brownie nogada $275.0 | pago=vale
+[producer_1] 245 ventas/pagos | ultima venta=V-E3E895C7C8 Tarta de frutas $1560.0 | pago=vale

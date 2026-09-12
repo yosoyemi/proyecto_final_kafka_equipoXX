@@ -1,0 +1,51 @@
+[producer_3] Iniciando. Topic: inventario
+[producer_3] Conectado a Kafka en 127.0.0.1:9092
+[producer_3] 5 inventario | Cheesecake de frutos rojos stock=47 sucursal=Norte
+[producer_3] 10 inventario | Rol de canela stock=48 sucursal=Plaza Obelie
+[producer_3] 15 inventario | Baguette tradicional stock=65 sucursal=Plaza Obelie
+[producer_3] 20 inventario | Tarta de frutas stock=51 sucursal=Centro
+[producer_3] 25 inventario | Baguette tradicional stock=71 sucursal=Norte
+[producer_3] 30 inventario | Galleta de mantequilla stock=64 sucursal=Sur
+[producer_3] 35 inventario | Croissant de almendra stock=56 sucursal=Plaza Obelie
+[producer_3] 40 inventario | Brownie nogada stock=61 sucursal=Centro
+[producer_3] 45 inventario | Baguette tradicional stock=81 sucursal=Norte
+[producer_3] 50 inventario | Pastel de chocolate stock=35 sucursal=Sur
+[producer_3] 55 inventario | Galleta de mantequilla stock=72 sucursal=Sur
+[producer_3] 60 inventario | Baguette tradicional stock=73 sucursal=Norte
+[producer_3] 65 inventario | Galleta de mantequilla stock=46 sucursal=Plaza Obelie
+[producer_3] 70 inventario | Tarta de frutas stock=34 sucursal=Plaza Obelie
+[producer_3] 75 inventario | Cheesecake de frutos rojos stock=45 sucursal=Norte
+[producer_3] 80 inventario | Pastel de chocolate stock=72 sucursal=Centro
+[producer_3] 85 inventario | Pastel de chocolate stock=42 sucursal=Norte
+[producer_3] 90 inventario | Galleta de mantequilla stock=77 sucursal=Sur
+[producer_3] 95 inventario | Baguette tradicional stock=35 sucursal=Sur
+[producer_3] 100 inventario | Baguette tradicional stock=85 sucursal=Norte
+[producer_3] 105 inventario | Cheesecake de frutos rojos stock=33 sucursal=Plaza Obelie
+[producer_3] 110 inventario | Eclair de cafe stock=64 sucursal=Plaza Obelie
+[producer_3] 115 inventario | Macaron mixto stock=72 sucursal=Norte
+[producer_3] 120 inventario | Eclair de cafe stock=86 sucursal=Sur
+[producer_3] 125 inventario | Galleta de mantequilla stock=79 sucursal=Sur
+[producer_3] 130 inventario | Tarta de frutas stock=56 sucursal=Centro
+[producer_3] 135 inventario | Eclair de cafe stock=92 sucursal=Sur
+[producer_3] 140 inventario | Croissant de almendra stock=86 sucursal=Plaza Obelie
+[producer_3] 145 inventario | Brownie nogada stock=80 sucursal=Sur
+[producer_3] 150 inventario | Baguette tradicional stock=42 sucursal=Sur
+[producer_3] 155 inventario | Cheesecake de frutos rojos stock=77 sucursal=Sur
+[producer_3] 160 inventario | Macaron mixto stock=81 sucursal=Norte
+[producer_3] 165 inventario | Galleta de mantequilla stock=88 sucursal=Sur
+[producer_3] 170 inventario | Galleta de mantequilla stock=84 sucursal=Sur
+[producer_3] 175 inventario | Pastel de chocolate stock=39 sucursal=Norte
+[producer_3] 180 inventario | Croissant de almendra stock=85 sucursal=Plaza Obelie
+[producer_3] 185 inventario | Eclair de cafe stock=116 sucursal=Sur
+[producer_3] 190 inventario | Croissant de almendra stock=43 sucursal=Norte
+[producer_3] 195 inventario | Tarta de frutas stock=62 sucursal=Norte
+[producer_3] 200 inventario | Baguette tradicional stock=99 sucursal=Norte
+[producer_3] 205 inventario | Macaron mixto stock=76 sucursal=Sur
+[producer_3] 210 inventario | Cheesecake de frutos rojos stock=64 sucursal=Centro
+[producer_3] 215 inventario | Baguette tradicional stock=59 sucursal=Centro
+[producer_3] 220 inventario | Galleta de mantequilla stock=50 sucursal=Norte
+[producer_3] 225 inventario | Galleta de mantequilla stock=80 sucursal=Centro
+[producer_3] 230 inventario | Baguette tradicional stock=35 sucursal=Sur
+[producer_3] 235 inventario | Baguette tradicional stock=97 sucursal=Norte
+[producer_3] 240 inventario | Baguette tradicional stock=47 sucursal=Sur
+[producer_3] 245 inventario | Cheesecake de frutos rojos stock=73 sucursal=Centro
